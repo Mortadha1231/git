@@ -1,6 +1,7 @@
 # formation
 ## azerzaraz ##
 ### zaerzarzr ###
-**text en gras italic**
-
-'''python
+- ariuhaz
+- tainzti
+- don
+- 7amdoun
